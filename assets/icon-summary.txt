@@ -1,0 +1,11 @@
+**The Four Questions**
+1. Verb: audit
+2. Object: a five-headed magnifying glass that refuses to put itself down
+3. Animal: a bloodhound that sniffs out every single TODO and FIXME because it cannot accept that you might have done something correctly on the first try
+4. Most annoying manual task: being followed around by five different inspectors who each want to see a different thing in every drawer, cabinet, and coat pocket in your house simultaneously
+
+**The Reality**
+This skill spawns a committee of five subagents that descend upon your codebase like a SWAT team with extremely narrow specialties. One checks that you finished your homework, one checks that your handwriting is legible, one checks that you didn't lose your friend's borrowed pencil, one checks that you followed the house rules, and one checks that your math actually adds up. They all arrive at the same time, read the same files through different microscopes, and then pool their findings into a single report that tells you exactly how much work you still have left to do.
+
+**The Superpower and the Mockery**
+It thinks it is a precision surgeon but it is really just a very enthusiastic nag with a magnifying glass in each hand. It will find every half-finished `TODO`, every missing JSDoc, every orphaned import, every skipped test, and every race condition hiding in your async code like a bloodhound tracking a scent through the woods. It has no idea what "good enough" means — it just knows what "not done yet" looks like, and it cannot wait to show you the seventy-three items on its clipboard.

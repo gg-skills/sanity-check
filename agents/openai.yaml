@@ -1,0 +1,7 @@
+interface:
+  display_name: GG → Sanity Check → Orchestrator
+  short_description: Spawn five independent subagents to audit completeness, types, integration, documentation, and logic.
+  default_prompt: Run a full five-lane sanity check on all work from this conversation using the sanity-check/SKILL.md skill.
+  brand_color: '#6366f1'
+  icon_large: ./assets/icon-large.png
+  icon_small: ./assets/icon-small.svg
