@@ -6,7 +6,7 @@
  * Verifies a sanity check operation against the 8-item Sanity Check Quality Checklist.
  * 
  * Usage:
- *   npx tsx skills/sanity-check/scripts/check-sanity-completeness.ts --lanes <count>
+ *   npx tsx .agents/skills/sanity-check/scripts/check-sanity-completeness.ts --lanes <count>
  */
 
 import { argv } from "process";
